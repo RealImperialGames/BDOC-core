@@ -1,5 +1,5 @@
-BDO-core ( *Black Desert Online Community, utils module* ) 
-==========================================================
+BDO-core ( *Black Desert Online Community, core module* ) 
+=========================================================
 
 .. image:: https://img.shields.io/github/issues/RealImperialGames/BDO-core.svg
   :alt: Issues on Github
