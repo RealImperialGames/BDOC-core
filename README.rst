@@ -38,14 +38,7 @@ We welcome contributions to BDOC-core! These are the many ways you can help:
 
 * Submit patches and features
 * Make BDOC-core ( *new updates to improve main library* )
-* Make BDOC-db ( *new updates for database configuration or queries* )
-* Make BDOC-client ( *new updates for community client* )
-* Make BDOC-server ( *new updates for community server* )
-* Improve the BDOC-utils bdoc-utils_
 * Improve the BDOC-core bdoc-core_
-* Improve the BDOC-db bdoc-db_
-* Improve the BDOC-client bdoc-client_
-* Improve the BDOC-server bdoc-server_
 * Report bugs 
 * And Donate bdoc-donate_ !
 
