@@ -21,7 +21,8 @@ BDOC-core ( *Black Desert Online Community, core module* )
 How to install ?
 ----------------
 
-+ 1. Install from setup.py file : ``python setup.py install``
++ 1. Preinstall **BDOC-utils** : ``pip install bdocutils``
++ 2. Install from setup.py file : ``python setup.py install``
 
 
 How to exec tests ?
