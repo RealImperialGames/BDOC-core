@@ -8,7 +8,9 @@ try:
     from bdocutils.files import read_file
     from bdocutils.files import path_format
 except ImportError as err:
-    raise Exception("ERROR: need to install first bdocutils, 'pip install bdocutils'")
+    raise Exception(
+        ("ERROR: need to install first bdocutils"
+         ", 'pip install bdocutils'"))
 
 
 VERSION = "0.0.0"
