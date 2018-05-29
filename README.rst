@@ -35,11 +35,11 @@ How to exec tests ?
 Contributing
 ~~~~~~~~~~~~
 
-We welcome contributions to BDOC-core! These are the many ways you can help:
+We welcome contributions to **BDOC-core**! These are the many ways you can help:
 
 * Submit patches and features
 * Make BDOC-core ( *new updates to improve main library* )
-* Improve the BDOC-core bdoc-core_
+* Improve the Documentation_
 * Report bugs 
 * And Donate bdoc-donate_ !
 
@@ -47,6 +47,6 @@ Please read our **documentation** to get started. Also note that this project
 is released with a code-of-conduct_ , please make sure to review and follow it.
 
 
-.. _BDOC-core: https://realimperialgames.github.io/BDOC-core
+.. _Documentation: https://realimperialgames.github.io/BDOC-core
 .. _bdoc-donate: https://opencollective.com/BDOC-core
 .. _code-of-conduct: https://github.com/RealImperialGames/BDO-community/blob/master/CODE_OF_CONDUCT.rst

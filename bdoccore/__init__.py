@@ -6,7 +6,7 @@
 """
 
 
-from bdoccore import configs
 from bdoccore import commands
+from bdoccore import configs
 
-__all__ = ['configs', 'commands']
+__all__ = ['commands', 'configs']
