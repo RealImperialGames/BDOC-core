@@ -21,7 +21,7 @@ BDOC-core ( *Black Desert Online Community, core module* )
 How to install ?
 ----------------
 
-+ 1. Preinstall **BDOC-utils** : ``pip install bdocutils``
++ 1. Preinstall **BDOC-core** : ``pip install bdocutils``
 + 2. Install from setup.py file : ``python setup.py install``
 
 
@@ -38,7 +38,7 @@ Contributing
 We welcome contributions to **BDOC-core**! These are the many ways you can help:
 
 * Submit patches and features
-* Make BDOC-core ( *new updates to improve main library* )
+* Make **BDOC-core** ( *new updates to improve main library* )
 * Improve the Documentation_
 * Report bugs 
 * And Donate bdoc-donate_ !
