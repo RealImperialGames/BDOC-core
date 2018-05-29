@@ -40,7 +40,8 @@ setup(
     author='Netzulo Open Source',
     author_email='netzuleando@gmail.com',
     url='https://github.com/RealImperialGames/BDOC-core.git',
-    download_url='https://github.com/RealImperialGames/BDOC-core/tarball/v{}'.format(
+    download_url=("https://github.com/RealImperialGames/"
+                  "BDOC-core/tarball/v{}").format(
         VERSION),
     keywords=[
         'BlackDesert',
